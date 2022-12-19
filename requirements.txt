@@ -1,0 +1,7 @@
+pymongo
+matplotlib
+textblob
+pytz
+regex
+requests
+urllib3
